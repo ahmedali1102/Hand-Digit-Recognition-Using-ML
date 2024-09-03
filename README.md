@@ -1,5 +1,5 @@
 
-Here's a short README for the "Hand Digit Recognition Using ML" project based on the provided Jupyter notebook:
+### Here's a short README for the "Hand Digit Recognition Using ML" project based on the provided Jupyter notebook:
 
 Hand Digit Recognition Using Machine Learning
 # Overview
