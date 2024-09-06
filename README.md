@@ -40,6 +40,9 @@ pip install numpy pandas scikit-learn  matplotlib seaborn
 Usage
 To run the project, open the Jupyter notebook and execute the cells sequentially. The notebook is designed to be self-explanatory, with comments and markdown cells guiding you through each step.
 
+here's the link  of the code explanation
+https://1drv.ms/v/c/46e17f20539c6739/EdvhS_9crlFJkEOKCPjOMpIBKPjx1UtXxJMlpDEFZKR9_g?e=NSptdR
+
 # Results
 The notebook demonstrates that machine learning models in recognizing handwritten digits, achieving a high accuracy on the MNIST dataset.
 
